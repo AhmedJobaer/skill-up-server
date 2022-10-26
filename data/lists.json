@@ -1,0 +1,134 @@
+[
+    {
+        "id": "01",
+        "name": "Machine Learning",
+        "ratings": 4.8,
+        "review": "50k reviews",
+        "price": 150,
+        "duration": "5-6 months",
+        "img": "",
+        "studyLevel": "Intermediate",
+        "skills": [
+            "ML algorithm",
+            "AI",
+            "Python"
+        ],
+        "courseDescription": "Machine Learning is the study of how to build computer systems that learn from experience. It is a subfield of Artificial Intelligence and intersects with statistics, cognitive science, information theory, and probability theory, among others.",
+        "instructor": {
+            "instructorName": "Asif Ahmed",
+            "instructorImg": "",
+            "aboutInfo": "",
+            "experience": "10 years+"
+        }
+    },
+    {
+        "id": "02",
+        "name": "Big Data Analytics",
+        "ratings": 4.8,
+        "review": "50k reviews",
+        "price": 150,
+        "duration": "5-6 months",
+        "img": "",
+        "studyLevel": "Intermediate",
+        "skills": [
+            "ML algorithm",
+            "AI",
+            "Python"
+        ],
+        "courseDescription": "Machine Learning is the study of how to build computer systems that learn from experience. It is a subfield of Artificial Intelligence and intersects with statistics, cognitive science, information theory, and probability theory, among others.",
+        "instructor": {
+            "instructorName": "Asif Ahmed",
+            "instructorImg": "",
+            "aboutInfo": "",
+            "experience": "10 years+"
+        }
+    },
+    {
+        "id": "03",
+        "name": "Data Science",
+        "ratings": 4.8,
+        "review": "50k reviews",
+        "price": 150,
+        "duration": "5-6 months",
+        "img": "",
+        "studyLevel": "Intermediate",
+        "skills": [
+            "ML algorithm",
+            "AI",
+            "Python"
+        ],
+        "courseDescription": "Machine Learning is the study of how to build computer systems that learn from experience. It is a subfield of Artificial Intelligence and intersects with statistics, cognitive science, information theory, and probability theory, among others.",
+        "instructor": {
+            "instructorName": "Asif Ahmed",
+            "instructorImg": "",
+            "aboutInfo": "",
+            "experience": "10 years+"
+        }
+    },
+    {
+        "id": "04",
+        "name": "Natural Language Processing",
+        "ratings": 4.8,
+        "review": "50k reviews",
+        "price": 150,
+        "duration": "5-6 months",
+        "img": "",
+        "studyLevel": "Intermediate",
+        "skills": [
+            "ML algorithm",
+            "AI",
+            "Python"
+        ],
+        "courseDescription": "Machine Learning is the study of how to build computer systems that learn from experience. It is a subfield of Artificial Intelligence and intersects with statistics, cognitive science, information theory, and probability theory, among others.",
+        "instructor": {
+            "instructorName": "Asif Ahmed",
+            "instructorImg": "",
+            "aboutInfo": "",
+            "experience": "10 years+"
+        }
+    },
+    {
+        "id": "05",
+        "name": "Mobile Application Development",
+        "ratings": 4.8,
+        "review": "50k reviews",
+        "price": 150,
+        "duration": "5-6 months",
+        "img": "",
+        "studyLevel": "Intermediate",
+        "skills": [
+            "ML algorithm",
+            "AI",
+            "Python"
+        ],
+        "courseDescription": "Machine Learning is the study of how to build computer systems that learn from experience. It is a subfield of Artificial Intelligence and intersects with statistics, cognitive science, information theory, and probability theory, among others.",
+        "instructor": {
+            "instructorName": "Asif Ahmed",
+            "instructorImg": "",
+            "aboutInfo": "",
+            "experience": "10 years+"
+        }
+    },
+    {
+        "id": "06",
+        "name": "Data Structure and Algorithm",
+        "ratings": 4.8,
+        "review": "50k reviews",
+        "price": 150,
+        "duration": "5-6 months",
+        "img": "",
+        "studyLevel": "Intermediate",
+        "skills": [
+            "ML algorithm",
+            "AI",
+            "Python"
+        ],
+        "courseDescription": "Machine Learning is the study of how to build computer systems that learn from experience. It is a subfield of Artificial Intelligence and intersects with statistics, cognitive science, information theory, and probability theory, among others.",
+        "instructor": {
+            "instructorName": "Asif Ahmed",
+            "instructorImg": "",
+            "aboutInfo": "",
+            "experience": "10 years+"
+        }
+    }
+]

@@ -1,12 +1,12 @@
 [
     {
         "id": "01",
-        "name": "Machine Learning",
+        "name": "C",
         "ratings": 4.8,
         "review": "50k reviews",
         "price": 150,
         "duration": "5-6 months",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png",
         "studyLevel": "Intermediate",
         "skills": [
             "ML algorithm",
@@ -28,7 +28,7 @@
         "review": "50k reviews",
         "price": 150,
         "duration": "5-6 months",
-        "img": "",
+        "img": "https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png",
         "studyLevel": "Intermediate",
         "skills": [
             "ML algorithm",
@@ -45,12 +45,12 @@
     },
     {
         "id": "03",
-        "name": "Data Science",
+        "name": "JAVA",
         "ratings": 4.8,
         "review": "50k reviews",
         "price": 150,
         "duration": "5-6 months",
-        "img": "",
+        "img": "https://i.pinimg.com/originals/d9/7a/d7/d97ad7d1f3f486dc9309a87b0209538a.jpg",
         "studyLevel": "Intermediate",
         "skills": [
             "ML algorithm",
@@ -67,12 +67,12 @@
     },
     {
         "id": "04",
-        "name": "JAVA",
+        "name": "Git",
         "ratings": 4.8,
         "review": "50k reviews",
         "price": 150,
         "duration": "5-6 months",
-        "img": "",
+        "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
         "studyLevel": "Intermediate",
         "skills": [
             "ML algorithm",
@@ -111,7 +111,7 @@
     },
     {
         "id": "06",
-        "name": "Data Structure and Algorithm",
+        "name": "Data Structure",
         "ratings": 4.8,
         "review": "50k reviews",
         "price": 150,

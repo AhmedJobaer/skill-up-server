@@ -23,7 +23,7 @@
     },
     {
         "id": "02",
-        "name": "Big Data Analytics",
+        "name": "C++",
         "ratings": 4.8,
         "review": "50k reviews",
         "price": 150,
@@ -67,7 +67,7 @@
     },
     {
         "id": "04",
-        "name": "Natural Language Processing",
+        "name": "JAVA",
         "ratings": 4.8,
         "review": "50k reviews",
         "price": 150,
@@ -89,7 +89,7 @@
     },
     {
         "id": "05",
-        "name": "Mobile Application Development",
+        "name": "Python",
         "ratings": 4.8,
         "review": "50k reviews",
         "price": 150,

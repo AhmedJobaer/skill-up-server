@@ -15,6 +15,12 @@ app.get('/all-lists', (req, res) => {
     res.send(lists)
 })
 
+app.get('/course-details/:id', (req, res) => {
+    const id = req.params.id;
+    const courseDetails = lists.find(course => course.id == id);
+    res.send(courseDetails);
+})
+
 app.listen(port, () => {
     console.log('Skill-up server running on port', port);
 })

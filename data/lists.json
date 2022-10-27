@@ -13,9 +13,9 @@
             "AI",
             "Python"
         ],
-        "courseDescription": "Machine Learning is the study of how to build computer systems that learn from experience. It is a subfield of Artificial Intelligence and intersects with statistics, cognitive science, information theory, and probability theory, among others.",
+        "courseDescription": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners.",
         "instructor": {
-            "instructorName": "Asif Ahmed",
+            "instructorName": "Akib Ahmed",
             "instructorImg": "",
             "aboutInfo": "",
             "experience": "10 years+"
@@ -24,10 +24,10 @@
     {
         "id": "02",
         "name": "C++",
-        "ratings": 4.8,
-        "review": "50k reviews",
+        "ratings": 5,
+        "review": "80k reviews",
         "price": 150,
-        "duration": "5-6 months",
+        "duration": "5-7 months",
         "img": "https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png",
         "studyLevel": "Intermediate",
         "skills": [
@@ -35,9 +35,9 @@
             "AI",
             "Python"
         ],
-        "courseDescription": "Machine Learning is the study of how to build computer systems that learn from experience. It is a subfield of Artificial Intelligence and intersects with statistics, cognitive science, information theory, and probability theory, among others.",
+        "courseDescription": "With its adaptability and fast rendering, you'll find the C++ programming language used everywhere, from web browsers to game development and operating systems to science and machine learning tools. This course will help you learn C++ basics and give you hands-on experience to create your own projects and work with computer memory.",
         "instructor": {
-            "instructorName": "Asif Ahmed",
+            "instructorName": "Noman Ahmed",
             "instructorImg": "",
             "aboutInfo": "",
             "experience": "10 years+"
@@ -47,8 +47,8 @@
         "id": "03",
         "name": "JAVA",
         "ratings": 4.8,
-        "review": "50k reviews",
-        "price": 150,
+        "review": "60k reviews",
+        "price": 180,
         "duration": "5-6 months",
         "img": "https://i.pinimg.com/originals/d9/7a/d7/d97ad7d1f3f486dc9309a87b0209538a.jpg",
         "studyLevel": "Intermediate",
@@ -59,7 +59,7 @@
         ],
         "courseDescription": "Machine Learning is the study of how to build computer systems that learn from experience. It is a subfield of Artificial Intelligence and intersects with statistics, cognitive science, information theory, and probability theory, among others.",
         "instructor": {
-            "instructorName": "Asif Ahmed",
+            "instructorName": "Hasan Ahmed",
             "instructorImg": "",
             "aboutInfo": "",
             "experience": "10 years+"
@@ -94,7 +94,7 @@
         "review": "50k reviews",
         "price": 150,
         "duration": "5-6 months",
-        "img": "",
+        "img": "https://mpng.subpng.com/20181128/cbr/kisspng-python-programming-basics-for-absolute-beginners-michigan-python-user-group-5-jul-2-18-5bfef921c53528.7857216715434365778078.jpg",
         "studyLevel": "Intermediate",
         "skills": [
             "ML algorithm",
@@ -116,7 +116,7 @@
         "review": "50k reviews",
         "price": 150,
         "duration": "5-6 months",
-        "img": "",
+        "img": "https://1.bp.blogspot.com/-kWxCvjwnSpk/YDC0Tr7_pFI/AAAAAAAABIg/zZBwUe4zH3wrjqGn5EFbHvM_YVp4dfePgCLcBGAsYHQ/s350/DS%2BLogo.png",
         "studyLevel": "Intermediate",
         "skills": [
             "ML algorithm",
